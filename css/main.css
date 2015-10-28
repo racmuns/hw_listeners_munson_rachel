@@ -1,0 +1,14 @@
+body {
+	background-color: #f2803c;
+}
+
+.container {
+	text-align: center;
+}
+
+.formInput {
+	width: 200px;
+	margin-top: 10px;
+	text-align: center;
+	background-color: #f8dc7a;
+}
